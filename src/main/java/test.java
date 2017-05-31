@@ -65,7 +65,7 @@ public class test{
 //        }
     }
 
-AtomicReference<ArrayList<String>> atomicReference = new AtomicReference(new ArrayList<>());
+AtomicReference<ArrayList<String>> atomicReference = new AtomicReference(new ArrayList<String>());
     private int length;
     private int times=0;
     private CountDownLatch c = new CountDownLatch(2);
