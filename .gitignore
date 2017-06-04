@@ -18,7 +18,6 @@
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
-
 # Gradle:
 .idea/**/gradle.xml
 .idea/**/libraries
@@ -84,3 +83,4 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 .gitignore
 test.iml
+/.idea/workspace.xml
